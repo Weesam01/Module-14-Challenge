@@ -1,5 +1,5 @@
 # Module-14-Challenge
-In this repository you will find a .ipynb file named Machine_Learning_Trading_Bot, in this file we assume the role of a financial advisor at one of the top five financial advisory firms in the world. In recent years, your firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
+In this repository you will find a .ipynb file named Machine_Learning_Trading_Bot, in this file we assume the role of a financial advisor at one of the top five financial advisory firms in the world. In recent years, my firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
 The firm is planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. Your job is to enhance the existing trading signals with machine learning algorithms that can adapt to new data.
 # Part 1 Establish a Baseline Performance
 Using the data provided we will use the SVC classifier model to fit the training data and make predictions based on the testing data. Review the predictions.
