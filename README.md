@@ -14,6 +14,13 @@ I will start by tuning the training algorithm by adjusting the size of the train
 #Question 1: What impact resulted from increasing or decreasing the training window?
 
 #Answer:
+The impact that resulted from increasing the window is a lower starting point for out returns, but as the cycle continues it becomes steady up until 2020 hits. Taking a hit from there and climbing to new heights ending at 1.6, .2 higher than our 3 Month Offset. Stating a positive correlation in cumulative return. 
+
+![Alt text](Images/#1.PNG)
+![Alt text](Images/#2.PNG)
+
+
+
 
 Secondly i will tune the trading algorithm by adjusting the SMA input features. Adjusting one or both of the windows for the algorithm. Rerun the notebook with the updated parameters, and record the results. 
 
