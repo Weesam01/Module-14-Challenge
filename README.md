@@ -48,7 +48,7 @@ To finish, il add a summary evaluation report at the end . I will express my fin
 
 #Summary Evaluation:
 
-During my testing ive found that (9 months of training data and 4 / 100 SMA), the algo at its peaak. Improvements can be made by using a classifier model.  In my case, I used Decision Tree Classifier and the results show a diminishing strategy return above the actual return.
+During my testing ive found that (9 months of training data and 4 / 100 SMA), the algorithimg is at its peak. Improvements can be made by using a classifier model.  In my case, I used Decision Tree Classifier and the results show a diminishing strategy return above the actual return.
 
 
 # End of Module 14
